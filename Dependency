@@ -1,0 +1,1 @@
+For Updating existing dependencies , you can do from following command :- npm install --legacy-peer-deps
